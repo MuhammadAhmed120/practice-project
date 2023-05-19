@@ -62,6 +62,14 @@ body{
     color: #bfbebe;
 }
 
+.cart-count{
+    color: white;
+}
+
+.add{
+    cursor: pointer;
+}
+
 .navbar-wrapper{
     border-top: 2px solid black;
     border-bottom: 2px solid black;
